@@ -1,2 +1,1 @@
-# Chef-s-Cafe
-CDAC Final project
+This is final repositery
